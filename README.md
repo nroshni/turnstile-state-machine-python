@@ -3,7 +3,7 @@
 Implementation of a state machine for a turnstile coin machine based on the diagram inspired from the following paper,
 [Yacoub, S.M. and Ammar, H.H., 1998, August. A pattern language of statecharts. In Proc. Fifth Annual Conf. on the Pattern Languages of Program (PLoP’98) (pp. 98-29)](https://pdfs.semanticscholar.org/ef5c/03e76a6dcaddd85c692695cdc309fc637924.pdf)
 
-<img src='Turnstile-coin-machine.jpg' />
+<img src='Turnstile-coin-machine.JPG' />
 <b>Figure:</b> Turnstile Coin Machine Specification
 
 1. The states:
